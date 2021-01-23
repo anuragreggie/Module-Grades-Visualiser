@@ -1,0 +1,1446 @@
+﻿Department,Level,Code,Average Grade
+Neuroscience,3000,PN3312,14.59
+Neuroscience,3000,PN3313,14.23
+Neuroscience,4000,PN4230,15.02
+Neuroscience,4000,PN4231,15.45
+Neuroscience,4000,PN4234,16.50
+Neuroscience,4000,PN4235,15.67
+Neuroscience,4000,PN4299,16.21
+Art History,1000,AH1001,13.25
+Art History,1000,AH1003,13.62
+Art History,1000,AH1901,13.20
+Art History,2000,AH2001,13.74
+Art History,2000,AH2002,13.60
+Art History,2000,AH2901,12.43
+Art History,3000,AH3104,14.98
+Art History,3000,AH3116,14.99
+Art History,3000,AH3122,13.88
+Art History,3000,AH3130,15.26
+Art History,3000,AH3131,15.29
+Art History,3000,AH3196,15.17
+Art History,3000,AH3901,12.76
+Art History,3000,AH3902,12.46
+Art History,3000,AH3903,15.22
+Art History,3000,AH3904,13.47
+Art History,4000,AH4078,14.84
+Art History,4000,AH4081,14.80
+Art History,4000,AH4087,15.11
+Art History,4000,AH4097,15.65
+Art History,4000,AH4099,14.52
+Art History,4000,AH4106,14.61
+Art History,4000,AH4107,13.91
+Art History,4000,AH4108,14.72
+Art History,4000,AH4124,13.93
+Art History,4000,AH4129,15.21
+Art History,4000,AH4130,14.72
+Art History,4000,AH4133,14.95
+Art History,4000,AH4140,14.62
+Art History,4000,AH4142,14.73
+Art History,4000,AH4147,14.69
+Art History,4000,AH4148,14.83
+Art History,4000,AH4149,13.27
+Art History,4000,AH4151,15.80
+Art History,4000,AH4152,15.10
+Art History,4000,AH4156,15.09
+Art History,4000,AH4157,13.88
+Art History,4000,AH4161,14.14
+Art History,4000,AH4162,14.20
+Art History,4000,AH4163,14.89
+Art History,4000,AH4164,15.37
+Art History,4000,AH4165,14.86
+Art History,4000,AH4166,14.81
+Art History,4000,AH4167,14.53
+Art History,4000,AH4170,15.09
+Art History,4000,AH4171,15.02
+Art History,4000,AH4172,14.67
+Art History,4000,AH4173,14.96
+Art History,4000,AH4174,15.51
+Art History,4000,AH4175,14.67
+Art History,4000,AH4176,15.75
+Art History,4000,AH4177,15.50
+Art History,4000,AH4182,15.53
+Art History,4000,AH4190,15.21
+Art History,4000,AH4196,14.96
+Art History,4000,AH4201,15.52
+Art History,4000,AH4205,14.54
+Art History,4000,AH4207,14.14
+Art History,4000,AH4208,14.48
+Art History,4000,AH4211,14.06
+Art History,4000,AH4212,14.82
+Art History,4000,AH4213,14.26
+Art History,4000,AH4214,15.26
+Art History,4000,AH4215,15.39
+Art History,4000,AH4216,14.76
+Art History,4000,AH4217,14.24
+Art History,4000,AH4220,13.84
+Art History,4000,AH4230,14.53
+Art History,5000,AH5081,14.24
+Art History,5000,AH5093,15.06
+Art History,5000,AH5099,15.61
+Art History,5000,AH5100,15.07
+Art History,5000,AH5118,15.95
+Art History,5000,AH5122,15.29
+Art History,5000,AH5140,15.88
+Art History,5000,AH5147,15.48
+Art History,5000,AH5150,13.70
+Art History,5000,AH5165,15.48
+Art History,5000,AH5190,15.09
+Art History,5000,AH5195,15.58
+Art History,5000,AH5196,14.22
+Art History,5000,AH5200,15.22
+Art History,5000,AH5504,15.81
+Art History,5000,AH5505,15.56
+Art History,5000,AH5506,16.35
+Art History,5000,AH5560,15.88
+Art History,5000,AH5561,15.89
+Art History,5000,AH5562,16.73
+Computer Science,1000,CS1002,14.58
+Computer Science,1000,CS1003,14.28
+Computer Science,1000,CS1004,13.45
+Computer Science,1000,CS1005,14.71
+Computer Science,1000,CS1006,15.33
+Computer Science,1000,CS1101,14.15
+Computer Science,1000,ID1005,14.35
+Computer Science,1000,IS1101,14.84
+Computer Science,1000,IS1102,11.35
+Computer Science,1000,IS1901,13.70
+Computer Science,2000,CS2001,14.51
+Computer Science,2000,CS2002,15.03
+Computer Science,2000,CS2003,14.17
+Computer Science,2000,CS2006,16.36
+Computer Science,2000,CS2101,16.20
+Computer Science,2000,IS2901,12.62
+Computer Science,3000,CS3051,14.71
+Computer Science,3000,CS3052,14.81
+Computer Science,3000,CS3053,15.22
+Computer Science,3000,CS3098,14.88
+Computer Science,3000,CS3099,16.43
+Computer Science,3000,CS3101,14.64
+Computer Science,3000,CS3102,14.83
+Computer Science,3000,CS3104,13.45
+Computer Science,3000,CS3105,13.76
+Computer Science,3000,CS3106,15.29
+Computer Science,3000,CS3301,13.77
+Computer Science,3000,CS3302,15.85
+Computer Science,3000,IS3901,12.81
+Computer Science,4000,CS4052,15.17
+Computer Science,4000,CS4098,16.55
+Computer Science,4000,CS4099,15.46
+Computer Science,4000,CS4102,14.66
+Computer Science,4000,CS4103,14.80
+Computer Science,4000,CS4201,16.58
+Computer Science,4000,CS4202,14.31
+Computer Science,4000,CS4203,15.92
+Computer Science,4000,CS4204,15.82
+Computer Science,4000,CS4302,16.49
+Computer Science,4000,CS4303,15.81
+Computer Science,4000,CS4402,15.24
+Computer Science,5000,CS5001,16.02
+Computer Science,5000,CS5002,16.41
+Computer Science,5000,CS5003,16.57
+Computer Science,5000,CS5010,14.96
+Computer Science,5000,CS5011,15.60
+Computer Science,5000,CS5012,14.80
+Computer Science,5000,CS5021,14.84
+Computer Science,5000,CS5023,15.15
+Computer Science,5000,CS5030,14.73
+Computer Science,5000,CS5031,15.54
+Computer Science,5000,CS5032,16.21
+Computer Science,5000,CS5033,15.69
+Computer Science,5000,CS5040,14.67
+Computer Science,5000,CS5041,16.09
+Computer Science,5000,CS5042,17.07
+Computer Science,5000,CS5043,15.52
+Computer Science,5000,CS5044,15.33
+Computer Science,5000,CS5052,15.97
+Computer Science,5000,CS5098,18.00
+Computer Science,5000,CS5099,16.25
+Computer Science,5000,CS5199,16.33
+Computer Science,5000,CS5899,16.92
+Computer Science,5000,IS5101,15.26
+Computer Science,5000,IS5102,15.79
+Computer Science,5000,IS5103,15.41
+Computer Science,5000,IS5104,16.06
+Computer Science,5000,IS5105,16.74
+Computer Science,5000,IS5106,14.26
+Computer Science,5000,IS5108,16.63
+Computer Science,5000,IS5188,17.08
+Computer Science,5000,IS5189,16.39
+Computer Science,5000,IS5199,16.23
+History,1000,ME1003,13.78
+History,1000,ME1006,13.28
+History,1000,MO1007,13.53
+History,1000,MO1008,13.61
+History,1000,SC1901,12.11
+History,2000,HI2001,14.24
+History,2000,ME2003,13.43
+History,2000,MH2002,13.85
+History,2000,MO2008,13.80
+History,2000,MO2901,12.98
+History,3000,ME3101,15.01
+History,3000,ME3102,14.42
+History,3000,ME3103,11.95
+History,3000,ME3105,16.00
+History,3000,ME3142,14.72
+History,3000,ME3162,14.52
+History,3000,ME3163,15.42
+History,3000,ME3206,14.87
+History,3000,ME3212,15.00
+History,3000,ME3214,14.58
+History,3000,ME3222,15.26
+History,3000,ME3223,14.97
+History,3000,ME3231,15.24
+History,3000,ME3232,15.67
+History,3000,ME3233,15.04
+History,3000,ME3235,14.49
+History,3000,ME3236,15.90
+History,3000,ME3237,16.00
+History,3000,ME3238,15.46
+History,3000,ME3301,14.50
+History,3000,ME3303,14.80
+History,3000,ME3304,14.59
+History,3000,ME3305,15.18
+History,3000,ME3308,15.13
+History,3000,ME3309,14.35
+History,3000,ME3311,14.99
+History,3000,ME3312,14.64
+History,3000,ME3313,15.31
+History,3000,ME3314,15.09
+History,3000,ME3417,14.98
+History,3000,ME3420,13.47
+History,3000,ME3423,14.71
+History,3000,ME3425,14.19
+History,3000,ME3426,14.73
+History,3000,ME3427,14.56
+History,3000,ME3602,15.38
+History,3000,ME3608,15.95
+History,3000,ME3611,15.26
+History,3000,ME3612,15.08
+History,3000,ME3613,15.13
+History,3000,ME3616,15.45
+History,3000,ME3617,15.28
+History,3000,MO3005,15.73
+History,3000,MO3019,15.61
+History,3000,MO3023,15.41
+History,3000,MO3025,14.17
+History,3000,MO3026,15.00
+History,3000,MO3027,15.16
+History,3000,MO3029,15.74
+History,3000,MO3033,13.05
+History,3000,MO3038,14.89
+History,3000,MO3040,14.37
+History,3000,MO3041,14.46
+History,3000,MO3043,15.85
+History,3000,MO3044,15.43
+History,3000,MO3045,14.51
+History,3000,MO3047,15.13
+History,3000,MO3048,14.69
+History,3000,MO3049,16.12
+History,3000,MO3050,14.38
+History,3000,MO3063,14.78
+History,3000,MO3080,15.49
+History,3000,MO3081,15.10
+History,3000,MO3110,15.33
+History,3000,MO3112,15.23
+History,3000,MO3113,15.40
+History,3000,MO3162,15.20
+History,3000,MO3163,14.47
+History,3000,MO3166,14.19
+History,3000,MO3214,14.72
+History,3000,MO3217,15.27
+History,3000,MO3218,14.71
+History,3000,MO3219,13.70
+History,3000,MO3220,15.62
+History,3000,MO3221,15.52
+History,3000,MO3222,15.67
+History,3000,MO3223,14.53
+History,3000,MO3262,14.20
+History,3000,MO3263,15.34
+History,3000,MO3302,15.33
+History,3000,MO3314,13.60
+History,3000,MO3317,14.66
+History,3000,MO3318,15.14
+History,3000,MO3319,15.44
+History,3000,MO3320,15.54
+History,3000,MO3321,14.91
+History,3000,MO3323,16.05
+History,3000,MO3328,15.15
+History,3000,MO3329,15.55
+History,3000,MO3331,15.26
+History,3000,MO3332,14.50
+History,3000,MO3333,14.92
+History,3000,MO3334,15.36
+History,3000,MO3335,14.97
+History,3000,MO3336,15.44
+History,3000,MO3337,14.99
+History,3000,MO3338,14.50
+History,3000,MO3346,15.44
+History,3000,MO3349,14.76
+History,3000,MO3351,14.98
+History,3000,MO3352,14.19
+History,3000,MO3353,15.20
+History,3000,MO3360,14.47
+History,3000,MO3361,14.74
+History,3000,MO3365,14.17
+History,3000,MO3381,14.79
+History,3000,MO3385,15.33
+History,3000,MO3404,14.87
+History,3000,MO3406,15.78
+History,3000,MO3410,15.01
+History,3000,MO3419,15.82
+History,3000,MO3421,14.23
+History,3000,MO3422,14.93
+History,3000,MO3423,14.60
+History,3000,MO3424,14.71
+History,3000,MO3425,14.85
+History,3000,MO3461,15.95
+History,3000,MO3502,15.44
+History,3000,MO3508,15.52
+History,3000,MO3513,15.00
+History,3000,MO3514,15.09
+History,3000,MO3516,15.18
+History,3000,MO3520,15.42
+History,3000,MO3523,15.45
+History,3000,MO3561,15.23
+History,3000,MO3713,13.95
+History,3000,MO3715,15.63
+History,3000,MO3761,15.36
+History,3000,MO3908,12.18
+History,3000,MO3909,14.20
+History,3000,SC3901,13.04
+History,3000,SC3903,11.66
+History,4000,HI4101,15.05
+History,4000,HI4997,15.98
+History,4000,HI4998,15.41
+History,4000,HI4999,15.34
+History,4000,ME4701,15.40
+History,4000,ME4710,14.58
+History,4000,ME4712,16.06
+History,4000,ME4713,16.10
+History,4000,ME4752,15.50
+History,4000,ME4753,15.60
+History,4000,ME4754,15.50
+History,4000,ME4755,15.05
+History,4000,ME4756,15.00
+History,4000,ME4806,15.76
+History,4000,ME4807,15.86
+History,4000,ME4813,14.70
+History,4000,ME4815,12.40
+History,4000,ME4852,15.70
+History,4000,ME4855,15.23
+History,4000,ME4856,14.90
+History,4000,ME4901,16.30
+History,4000,MO4804,13.80
+History,4000,MO4805,15.78
+History,4000,MO4806,16.30
+History,4000,MO4807,14.76
+History,4000,MO4850,15.98
+History,4000,MO4903,16.14
+History,4000,MO4904,15.03
+History,4000,MO4910,16.10
+History,4000,MO4912,15.65
+History,4000,MO4921,14.82
+History,4000,MO4930,15.90
+History,4000,MO4932,15.30
+History,4000,MO4936,15.88
+History,4000,MO4937,15.09
+History,4000,MO4938,15.24
+History,4000,MO4939,16.16
+History,4000,MO4940,16.10
+History,4000,MO4949,15.81
+History,4000,MO4952,15.75
+History,4000,MO4959,15.22
+History,4000,MO4962,15.25
+History,4000,MO4965,15.61
+History,4000,MO4967,15.73
+History,4000,MO4968,15.87
+History,4000,MO4970,16.29
+History,4000,MO4971,15.47
+History,4000,MO4972,15.30
+History,4000,MO4973,14.62
+History,4000,MO4974,15.20
+History,4000,MO4975,16.00
+History,5000,EH5003,14.45
+History,5000,HI5004,16.97
+History,5000,HI5099,15.07
+History,5000,HI5104,17.27
+History,5000,IH5001,14.90
+History,5000,IH5002,15.09
+History,5000,IH5003,15.76
+History,5000,LC5001,16.08
+History,5000,LC5002,15.95
+History,5000,LC5022,16.75
+History,5000,LC5023,15.30
+History,5000,LC5025,16.04
+History,5000,LC5026,16.15
+History,5000,LC5099,15.95
+History,5000,ME5001,14.71
+History,5000,ME5002,15.57
+History,5000,ME5005,16.24
+History,5000,ME5099,14.99
+History,5000,ME5105,15.95
+History,5000,ME5201,13.94
+History,5000,ME5203,15.34
+History,5000,MH5001,16.25
+History,5000,MH5101,14.99
+History,5000,MH5111,14.95
+History,5000,MH5411,15.73
+History,5000,MO5000,15.56
+History,5000,MO5001,14.60
+History,5000,MO5011,14.93
+History,5000,MO5012,16.58
+History,5000,MO5030,15.64
+History,5000,MO5031,17.08
+History,5000,MO5032,17.60
+History,5000,MO5033,15.57
+History,5000,MO5099,15.60
+History,5000,MO5113,16.61
+History,5000,MO5151,15.12
+History,5000,MO5161,15.33
+History,5000,MO5601,15.03
+History,5000,MO5602,15.55
+History,5000,MO5605,15.97
+History,5000,MO5606,14.27
+History,5000,MO5609,15.12
+History,5000,MO5612,14.77
+History,5000,MO5621,14.89
+History,5000,MO5622,15.38
+History,5000,MO5699,16.00
+History,5000,MO5710,14.98
+History,5000,MS5001,15.75
+History,5000,MS5023,16.23
+History,5000,MS5024,15.79
+History,5000,MS5025,17.50
+History,5000,MS5026,14.77
+History,5000,MS5027,15.91
+History,5000,MS5099,15.82
+History,5000,SC5051,14.33
+History,5000,SC5052,15.13
+History,5000,SC5099,15.25
+History,5000,SC5201,14.10
+History,5000,SC5202,13.82
+History,5000,SC5203,15.56
+International Relations,1000,IR1005,13.94
+International Relations,1000,IR1006,13.86
+International Relations,2000,IR2005,14.10
+International Relations,2000,IR2006,13.97
+International Relations,3000,IR3004,14.79
+International Relations,3000,IR3006,15.14
+International Relations,3000,IR3008,15.38
+International Relations,3000,IR3011,14.78
+International Relations,3000,IR3013,15.62
+International Relations,3000,IR3015,15.13
+International Relations,3000,IR3021,15.50
+International Relations,3000,IR3022,15.08
+International Relations,3000,IR3023,14.95
+International Relations,3000,IR3024,15.89
+International Relations,3000,IR3025,15.04
+International Relations,3000,IR3026,15.72
+International Relations,3000,IR3029,14.57
+International Relations,3000,IR3030,15.45
+International Relations,3000,IR3031,15.06
+International Relations,3000,IR3032,15.19
+International Relations,3000,IR3033,14.67
+International Relations,3000,IR3035,14.93
+International Relations,3000,IR3039,15.37
+International Relations,3000,IR3041,15.45
+International Relations,3000,IR3042,14.66
+International Relations,3000,IR3043,14.62
+International Relations,3000,IR3044,16.71
+International Relations,3000,IR3045,15.42
+International Relations,3000,IR3046,14.70
+International Relations,3000,IR3048,15.25
+International Relations,3000,IR3049,16.33
+International Relations,3000,IR3050,15.28
+International Relations,3000,IR3051,14.86
+International Relations,3000,IR3052,15.30
+International Relations,3000,IR3053,14.98
+International Relations,3000,IR3054,16.21
+International Relations,3000,IR3055,15.55
+International Relations,3000,IR3056,15.18
+International Relations,3000,IR3057,15.42
+International Relations,3000,IR3058,15.49
+International Relations,3000,IR3059,14.54
+International Relations,3000,IR3060,15.71
+International Relations,3000,IR3061,15.61
+International Relations,3000,IR3062,15.40
+International Relations,3000,IR3063,15.60
+International Relations,3000,IR3064,15.12
+International Relations,3000,IR3065,14.34
+International Relations,3000,IR3066,15.73
+International Relations,3000,IR3067,15.54
+International Relations,3000,IR3068,14.95
+International Relations,3000,IR3071,14.45
+International Relations,3000,IR3073,15.24
+International Relations,3000,IR3075,14.57
+International Relations,3000,IR3076,15.48
+International Relations,3000,IR3070,14.79
+International Relations,3000,IR3101,15.06
+International Relations,3000,IR3102,14.63
+International Relations,3000,IR3104,15.09
+International Relations,3000,IR3109,14.65
+International Relations,3000,IR3111,15.38
+International Relations,3000,IR3113,15.89
+International Relations,3000,IR3300,14.63
+International Relations,3000,IR3301,14.97
+International Relations,3000,IR3302,15.29
+International Relations,3000,IR3303,15.41
+International Relations,4000,IR4099,15.51
+International Relations,4000,IR4401,15.48
+International Relations,4000,IR4501,15.01
+International Relations,4000,IR4507,15.49
+International Relations,4000,IR4510,15.63
+International Relations,4000,IR4512,14.57
+International Relations,4000,IR4514,15.27
+International Relations,4000,IR4516,16.20
+International Relations,4000,IR4518,15.65
+International Relations,4000,IR4520,14.89
+International Relations,4000,IR4522,16.01
+International Relations,4000,IR4523,15.90
+International Relations,4000,IR4525,14.91
+International Relations,4000,IR4530,15.40
+International Relations,4000,IR4532,15.66
+International Relations,4000,IR4533,14.60
+International Relations,4000,IR4535,15.35
+International Relations,4000,IR4536,15.13
+International Relations,4000,IR4538,16.62
+International Relations,4000,IR4539,14.74
+International Relations,4000,IR4540,15.37
+International Relations,4000,IR4541,15.51
+International Relations,4000,IR4542,14.58
+International Relations,4000,IR4543,15.68
+International Relations,4000,IR4544,15.59
+International Relations,4000,IR4545,14.63
+International Relations,4000,IR4546,15.37
+International Relations,4000,IR4547,15.46
+International Relations,4000,IR4548,15.89
+International Relations,4000,IR4549,15.46
+International Relations,4000,IR4550,15.72
+International Relations,4000,IR4551,15.49
+International Relations,4000,IR4552,15.72
+International Relations,4000,IR4553,16.34
+International Relations,4000,IR4555,15.95
+International Relations,4000,IR4559,15.03
+International Relations,4000,IR4560,16.14
+International Relations,4000,IR4561,16.59
+International Relations,4000,IR4563,15.22
+International Relations,4000,IR4564,14.74
+International Relations,4000,IR4565,15.67
+International Relations,4000,IR4566,15.42
+International Relations,4000,IR4567,14.55
+International Relations,4000,IR4569,15.06
+International Relations,4000,IR4570,17.05
+International Relations,4000,IR4600,15.23
+International Relations,4000,IR4601,14.33
+International Relations,4000,IR4602,15.02
+International Relations,4000,IR4603,15.57
+International Relations,4000,IR4604,15.43
+International Relations,4000,IR4605,14.54
+International Relations,4000,IR4606,13.63
+International Relations,5000,IR5001,15.63
+International Relations,5000,IR5003,15.72
+International Relations,5000,IR5007,15.48
+International Relations,5000,IR5029,15.46
+International Relations,5000,IR5033,17.03
+International Relations,5000,IR5035,15.56
+International Relations,5000,IR5036,15.26
+International Relations,5000,IR5039,15.32
+International Relations,5000,IR5040,15.13
+International Relations,5000,IR5042,14.94
+International Relations,5000,IR5050,14.83
+International Relations,5000,IR5051,16.90
+International Relations,5000,IR5052,15.28
+International Relations,5000,IR5055,14.60
+International Relations,5000,IR5057,16.13
+International Relations,5000,IR5058,15.27
+International Relations,5000,IR5059,15.77
+International Relations,5000,IR5060,14.91
+International Relations,5000,IR5061,15.79
+International Relations,5000,IR5062,15.93
+International Relations,5000,IR5063,17.03
+International Relations,5000,IR5099,15.29
+International Relations,5000,IR5151,16.07
+International Relations,5000,IR5401,15.55
+International Relations,5000,IR5402,16.15
+International Relations,5000,IR5406,15.94
+International Relations,5000,IR5408,16.19
+International Relations,5000,IR5412,16.05
+International Relations,5000,IR5413,15.43
+International Relations,5000,IR5414,16.40
+International Relations,5000,IR5415,14.97
+International Relations,5000,IR5501,15.75
+International Relations,5000,IR5502,16.19
+International Relations,5000,IR5510,15.91
+International Relations,5000,IR5518,15.33
+International Relations,5000,IR5520,15.92
+International Relations,5000,IR5526,15.74
+International Relations,5000,IR5527,15.70
+International Relations,5000,IR5528,15.34
+International Relations,5000,IR5529,16.12
+International Relations,5000,IR5701,14.95
+International Relations,5000,IR5721,15.75
+International Relations,5000,IR5722,16.63
+International Relations,5000,IR5727,15.30
+International Relations,5000,IR5728,15.46
+International Relations,5000,IR5800,15.04
+International Relations,5000,IR5801,15.38
+International Relations,5000,IR5901,14.83
+International Relations,5000,IR5902,14.46
+International Relations,5000,IR5903,15.50
+International Relations,5000,IR5904,15.70
+International Relations,5000,IR5920,15.66
+International Relations,5000,IR5921,16.07
+International Relations,5000,IR5922,14.75
+International Relations,5000,IR5951,14.08
+International Relations,5000,IR5952,13.85
+International Relations,5000,IR5953,15.31
+International Relations,5000,IR5954,15.31
+International Relations,5000,IR5998,14.04
+International Relations,5000,IR5999,15.40
+Mathematics and Statistics,1000,MT1001,12.68
+Mathematics and Statistics,1000,MT1002,14.10
+Mathematics and Statistics,1000,MT1003,12.40
+Mathematics and Statistics,1000,MT1007,14.08
+Mathematics and Statistics,1000,MT1008,17.08
+Mathematics and Statistics,1000,MT1010,14.69
+Mathematics and Statistics,2000,ID2003,13.40
+Mathematics and Statistics,2000,ID2005,12.30
+Mathematics and Statistics,2000,MT2001,13.46
+Mathematics and Statistics,2000,MT2002,14.59
+Mathematics and Statistics,2000,MT2003,13.21
+Mathematics and Statistics,2000,MT2004,12.73
+Mathematics and Statistics,2000,MT2005,14.74
+Mathematics and Statistics,2000,MT2501,15.09
+Mathematics and Statistics,2000,MT2502,14.41
+Mathematics and Statistics,2000,MT2503,14.64
+Mathematics and Statistics,2000,MT2504,14.85
+Mathematics and Statistics,2000,MT2505,15.40
+Mathematics and Statistics,2000,MT2506,15.13
+Mathematics and Statistics,2000,MT2507,14.91
+Mathematics and Statistics,2000,MT2508,13.95
+Mathematics and Statistics,3000,MT3501,15.33
+Mathematics and Statistics,3000,MT3502,15.32
+Mathematics and Statistics,3000,MT3503,15.17
+Mathematics and Statistics,3000,MT3504,14.70
+Mathematics and Statistics,3000,MT3505,15.25
+Mathematics and Statistics,3000,MT3506,14.65
+Mathematics and Statistics,3000,MT3507,14.84
+Mathematics and Statistics,3000,MT3508,15.00
+Mathematics and Statistics,3000,MT3600,13.78
+Mathematics and Statistics,3000,MT3601,14.29
+Mathematics and Statistics,3000,MT3606,15.22
+Mathematics and Statistics,3000,MT3607,14.81
+Mathematics and Statistics,3000,MT3706,14.68
+Mathematics and Statistics,3000,MT3802,13.93
+Mathematics and Statistics,3000,MT3832,15.44
+Mathematics and Statistics,3000,MT3833,14.32
+Mathematics and Statistics,3000,MT3852,14.70
+Mathematics and Statistics,4000,MT4003,14.57
+Mathematics and Statistics,4000,MT4004,15.28
+Mathematics and Statistics,4000,MT4005,15.00
+Mathematics and Statistics,4000,MT4111,14.51
+Mathematics and Statistics,4000,MT4112,15.28
+Mathematics and Statistics,4000,MT4113,14.62
+Mathematics and Statistics,4000,MT4501,15.60
+Mathematics and Statistics,4000,MT4507,14.88
+Mathematics and Statistics,4000,MT4508,15.97
+Mathematics and Statistics,4000,MT4509,14.74
+Mathematics and Statistics,4000,MT4510,15.64
+Mathematics and Statistics,4000,MT4511,15.46
+Mathematics and Statistics,4000,MT4513,15.46
+Mathematics and Statistics,4000,MT4514,14.89
+Mathematics and Statistics,4000,MT4515,15.38
+Mathematics and Statistics,4000,MT4516,15.26
+Mathematics and Statistics,4000,MT4517,15.07
+Mathematics and Statistics,4000,MT4519,15.40
+Mathematics and Statistics,4000,MT4526,14.00
+Mathematics and Statistics,4000,MT4527,15.13
+Mathematics and Statistics,4000,MT4528,15.40
+Mathematics and Statistics,4000,MT4530,15.40
+Mathematics and Statistics,4000,MT4531,14.63
+Mathematics and Statistics,4000,MT4537,13.77
+Mathematics and Statistics,4000,MT4551,14.88
+Mathematics and Statistics,4000,MT4552,15.00
+Mathematics and Statistics,4000,MT4599,15.48
+Mathematics and Statistics,4000,MT4606,14.53
+Mathematics and Statistics,4000,MT4607,15.71
+Mathematics and Statistics,4000,MT4608,15.69
+Mathematics and Statistics,4000,MT4609,14.19
+Mathematics and Statistics,4000,MT4614,14.69
+Mathematics and Statistics,5000,MT5099,15.90
+Mathematics and Statistics,5000,MT5611,16.83
+Mathematics and Statistics,5000,MT5751,15.30
+Mathematics and Statistics,5000,MT5753,15.48
+Mathematics and Statistics,5000,MT5756,16.22
+Mathematics and Statistics,5000,MT5757,16.40
+Mathematics and Statistics,5000,MT5758,16.09
+Mathematics and Statistics,5000,MT5761,14.80
+Mathematics and Statistics,5000,MT5762,15.00
+Mathematics and Statistics,5000,MT5763,15.90
+Mathematics and Statistics,5000,MT5802,15.75
+Mathematics and Statistics,5000,MT5806,18.22
+Mathematics and Statistics,5000,MT5809,15.57
+Mathematics and Statistics,5000,MT5810,15.46
+Mathematics and Statistics,5000,MT5812,16.02
+Mathematics and Statistics,5000,MT5821,16.03
+Mathematics and Statistics,5000,MT5823,16.41
+Mathematics and Statistics,5000,MT5824,15.45
+Mathematics and Statistics,5000,MT5825,16.07
+Mathematics and Statistics,5000,MT5826,16.20
+Mathematics and Statistics,5000,MT5827,16.10
+Mathematics and Statistics,5000,MT5830,14.65
+Mathematics and Statistics,5000,MT5831,15.31
+Mathematics and Statistics,5000,MT5836,16.46
+Mathematics and Statistics,5000,MT5852,15.14
+Mathematics and Statistics,5000,MT5990,15.78
+Mathematics and Statistics,5000,MT5991,17.82
+Mathematics and Statistics,5000,MT5999,16.80
+Physics,1000,AS1001,15.00
+Physics,1000,AS1101,18.30
+Physics,2000,AS2001,14.15
+Physics,2000,AS2101,10.70
+Physics,3000,AS3013,15.70
+Physics,4000,AS4010,13.50
+Physics,4000,AS4011,14.25
+Physics,4000,AS4012,14.60
+Physics,4000,AS4015,12.70
+Physics,4000,AS4025,15.85
+Physics,5000,AS5001,16.80
+Physics,5000,AS5002,13.80
+Physics,5000,AS5003,11.90
+Physics,4000,ID4001,15.90
+Physics,1000,PH1011,14.74
+Physics,1000,PH1012,15.57
+Physics,1000,PH1501,12.78
+Physics,1000,PH1502,14.91
+Physics,1000,PH1503,15.55
+Physics,2000,PH2011,15.33
+Physics,2000,PH2012,15.49
+Physics,3000,PH3007,14.47
+Physics,3000,PH3012,15.73
+Physics,3000,PH3014,15.81
+Physics,3000,PH3061,15.26
+Physics,3000,PH3062,15.39
+Physics,3000,PH3074,13.16
+Physics,3000,PH3080,15.34
+Physics,3000,PH3081,14.07
+Physics,3000,PH3101,15.98
+Physics,4000,PH4021,16.58
+Physics,4000,PH4022,14.64
+Physics,4000,PH4025,15.26
+Physics,4000,PH4026,13.39
+Physics,4000,PH4027,14.44
+Physics,4000,PH4028,15.76
+Physics,4000,PH4030,16.38
+Physics,4000,PH4031,14.65
+Physics,4000,PH4032,15.70
+Physics,4000,PH4034,14.28
+Physics,4000,PH4035,14.61
+Physics,4000,PH4036,14.78
+Physics,4000,PH4037,14.75
+Physics,4000,PH4038,15.78
+Physics,4000,PH4039,15.37
+Physics,4000,PH4040,14.98
+Physics,4000,PH4041,14.60
+Physics,4000,PH4042,14.50
+Physics,4000,PH4044,15.60
+Physics,4000,PH4105,15.99
+Physics,4000,PH4111,14.25
+Physics,5000,PH5002,15.33
+Physics,5000,PH5003,14.60
+Physics,5000,PH5004,14.90
+Physics,5000,PH5005,15.78
+Physics,5000,PH5011,14.51
+Physics,5000,PH5012,15.05
+Physics,5000,PH5014,15.19
+Physics,5000,PH5015,16.15
+Physics,5000,PH5016,15.04
+Physics,5000,PH5022,14.70
+Physics,5000,PH5023,17.40
+Physics,5000,PH5024,16.53
+Physics,5000,PH5025,11.10
+Physics,5000,PH5101,16.51
+Physics,5000,PH5102,15.78
+Physics,5000,PH5103,16.22
+Physics,5000,PH5177,16.32
+Physics,5000,PH5180,14.81
+Physics,5000,PH5181,15.60
+Physics,5000,PH5182,15.81
+Physics,5000,PH5183,14.96
+Physics,5000,PH5208,16.58
+Physics,5000,PH5260,16.11
+Physics,5000,PH5261,17.87
+Physics,5000,PH5262,16.00
+Physics,5000,PH5263,15.91
+Physics,5000,PH5264,15.42
+Physics,5000,PH5265,16.36
+Physics,5000,PH5267,15.42
+Physics,5000,PH5268,15.67
+Chemistry,1000,CH1202,16.47
+Chemistry,1000,CH1301,14.64
+Chemistry,1000,CH1401,14.75
+Chemistry,1000,CH1402,13.63
+Chemistry,1000,CH1601,13.31
+Chemistry,2000,CH2201,15.70
+Chemistry,2000,CH2501,14.48
+Chemistry,2000,CH2601,14.20
+Chemistry,2000,CH2701,13.76
+Chemistry,3000,CH3431,15.57
+Chemistry,3000,CH3441,16.01
+Chemistry,3000,CH3512,14.01
+Chemistry,3000,CH3513,17.22
+Chemistry,3000,CH3514,14.14
+Chemistry,3000,CH3521,15.45
+Chemistry,3000,CH3612,13.46
+Chemistry,3000,CH3613,13.99
+Chemistry,3000,CH3615,14.25
+Chemistry,3000,CH3621,15.20
+Chemistry,3000,CH3622,14.74
+Chemistry,3000,CH3712,14.07
+Chemistry,3000,CH3715,15.19
+Chemistry,3000,CH3716,14.92
+Chemistry,3000,CH3717,15.85
+Chemistry,3000,CH3721,15.73
+Chemistry,3000,CH3722,16.28
+Chemistry,4000,CH4442,14.89
+Chemistry,4000,CH4451,16.22
+Chemistry,4000,CH4452,15.67
+Chemistry,4000,CH4453,16.47
+Chemistry,4000,CH4454,17.78
+Chemistry,4000,CH4455,17.53
+Chemistry,4000,CH4456,18.20
+Chemistry,4000,CH4461,12.03
+Chemistry,4000,CH4514,13.50
+Chemistry,4000,CH4515,14.47
+Chemistry,4000,CH4612,15.32
+Chemistry,4000,CH4613,15.02
+Chemistry,4000,CH4614,13.70
+Chemistry,4000,CH4615,15.37
+Chemistry,4000,CH4712,13.99
+Chemistry,4000,CH4713,13.69
+Chemistry,4000,CH4714,12.80
+Chemistry,4000,CH4715,11.95
+Chemistry,4000,CH4716,14.00
+Chemistry,5000,CH5441,16.47
+Chemistry,5000,CH5461,13.97
+Chemistry,5000,CH5511,14.61
+Chemistry,5000,CH5516,14.68
+Chemistry,5000,CH5517,15.30
+Chemistry,5000,CH5518,13.14
+Chemistry,5000,CH5611,13.46
+Chemistry,5000,CH5612,14.53
+Chemistry,5000,CH5613,14.42
+Chemistry,5000,CH5614,13.79
+Chemistry,5000,CH5615,17.15
+Chemistry,5000,CH5616,14.16
+Chemistry,5000,CH5711,14.20
+Chemistry,5000,CH5712,14.19
+Chemistry,5000,CH5713,13.58
+Chemistry,5000,CH5714,14.73
+Chemistry,5000,CH5715,13.47
+Chemistry,5000,CH5716,16.29
+Chemistry,5000,CH5717,14.69
+Chemistry,5000,CH5718,16.02
+Chemistry,5000,CH5821,15.47
+Chemistry,5000,CH5831,16.15
+Chemistry,5000,CH5832,16.67
+Chemistry,5000,CH5841,14.80
+Biology,1000,BL1101,13.65
+Biology,1000,BL1102,13.75
+Biology,1000,BL1801,14.81
+Biology,2000,BL2101,14.10
+Biology,2000,BL2102,14.99
+Biology,2000,BL2104,13.59
+Biology,2000,BL2105,14.04
+Biology,2000,BL2106,14.38
+Biology,2000,BL2300,14.86
+Biology,2000,BL2301,13.80
+Biology,2000,BL2302,14.03
+Biology,2000,BL2303,15.57
+Biology,2000,BL2304,15.87
+Biology,2000,BL2305,15.63
+Biology,2000,BL2306,13.84
+Biology,2000,BL2307,14.90
+Biology,2000,BL2308,15.90
+Biology,2000,BL2309,14.50
+Biology,2000,BL2310,14.25
+Biology,2000,BL2802,13.28
+Biology,2000,BL2803,14.62
+Biology,3000,BL3000,15.41
+Biology,3000,BL3301,13.74
+Biology,3000,BL3302,13.64
+Biology,3000,BL3303,14.06
+Biology,3000,BL3307,14.78
+Biology,3000,BL3308,14.75
+Biology,3000,BL3309,14.25
+Biology,3000,BL3310,14.45
+Biology,3000,BL3311,14.08
+Biology,3000,BL3312,13.09
+Biology,3000,BL3313,13.94
+Biology,3000,BL3315,14.32
+Biology,3000,BL3316,14.96
+Biology,3000,BL3318,13.80
+Biology,3000,BL3319,14.36
+Biology,3000,BL3320,14.42
+Biology,3000,BL3321,15.67
+Biology,3000,BL3322,14.57
+Biology,3000,BL3323,15.90
+Biology,3000,BL3400,15.34
+Biology,4000,BL4200,16.05
+Biology,4000,BL4201,15.72
+Biology,4000,BL4202,16.00
+Biology,4000,BL4210,14.84
+Biology,4000,BL4211,14.82
+Biology,4000,BL4212,15.03
+Biology,4000,BL4213,14.52
+Biology,4000,BL4215,15.21
+Biology,4000,BL4216,15.06
+Biology,4000,BL4220,15.44
+Biology,4000,BL4222,14.91
+Biology,4000,BL4223,15.31
+Biology,4000,BL4224,15.06
+Biology,4000,BL4230,16.21
+Biology,4000,BL4231,16.50
+Biology,4000,BL4232,16.20
+Biology,4000,BL4234,15.67
+Biology,4000,BL4235,15.16
+Biology,4000,BL4248,15.76
+Biology,4000,BL4249,15.97
+Biology,4000,BL4251,15.31
+Biology,4000,BL4254,16.78
+Biology,4000,BL4255,14.84
+Biology,4000,BL4256,17.14
+Biology,4000,BL4258,14.85
+Biology,4000,BL4259,15.24
+Biology,4000,BL4260,14.64
+Biology,4000,BL4262,15.25
+Biology,4000,BL4263,15.62
+Biology,4000,BL4266,15.05
+Biology,4000,BL4268,15.80
+Biology,4000,BL4270,15.49
+Biology,4000,BL4273,14.60
+Biology,4000,BL4274,15.77
+Biology,4000,BL4275,16.39
+Biology,4000,BL4278,15.84
+Biology,4000,BL4280,15.39
+Biology,4000,BL4281,15.61
+Biology,4000,BL4282,15.42
+Biology,4000,BL4284,15.94
+Biology,4000,BL4285,16.03
+Biology,4000,BL4286,15.02
+Biology,4000,BL4291,15.86
+Biology,4000,BL4301,14.24
+Biology,4000,BL4601,15.35
+Biology,4000,BL4602,17.28
+Biology,4000,BL4801,13.48
+Biology,4000,BL4802,13.05
+Biology,5000,BL5008,16.75
+Biology,5000,BL5011,15.19
+Biology,5000,BL5013,17.13
+Biology,5000,BL5016,15.73
+Biology,5000,BL5018,16.00
+Biology,5000,BL5019,17.41
+Biology,5000,BL5020,14.95
+Biology,5000,BL5021,15.33
+Biology,5000,BL5103,15.61
+Biology,5000,BL5104,15.82
+Biology,5000,BL5111,16.46
+Biology,5000,BL5112,15.84
+Biology,5000,BL5113,16.00
+Biology,5000,BL5121,15.46
+Biology,5000,BL5122,15.61
+Biology,5000,BL5124,15.83
+Biology,5000,BL5125,16.64
+Biology,5000,BL5199,16.00
+Biology,5000,BL5201,14.85
+Biology,5000,BL5202,15.87
+Biology,5000,BL5301,15.90
+Biology,5000,BL5302,16.29
+Biology,5000,BL5303,16.12
+Biology,5000,BL5304,15.45
+Biology,5000,BL5321,15.96
+Biology,5000,BL5322,15.80
+Biology,5000,BL5323,15.96
+Biology,5000,BL5324,16.06
+Biology,5000,BL5399,16.50
+Biology,5000,BL5420,16.16
+Biology,5000,BL5421,15.03
+Biology,5000,BL5499,16.90
+Biology,5000,BL5801,15.38
+Biology,5000,BL5802,14.68
+Biology,5000,BL5803,15.66
+Biology,5000,BL5804,15.69
+Biology,5000,BL5805,15.23
+Biology,5000,BL5821,14.23
+Biology,5000,BL5823,15.18
+Biology,5000,BL5825,15.57
+Biology,5000,BL5899,17.13
+Economics and Finance,1000,EC1001,13.96
+Economics and Finance,1000,EC1002,13.30
+Economics and Finance,1000,EC1003,13.05
+Economics and Finance,2000,EC2001,13.32
+Economics and Finance,2000,EC2002,12.87
+Economics and Finance,2000,EC2003,12.78
+Economics and Finance,2000,EC2004,12.10
+Economics and Finance,2000,EC2008,13.47
+Economics and Finance,3000,EC3201,14.03
+Economics and Finance,3000,EC3202,15.18
+Economics and Finance,3000,EC3203,13.77
+Economics and Finance,3000,EC3301,15.20
+Economics and Finance,3000,EC3302,14.75
+Economics and Finance,3000,EC3303,15.25
+Economics and Finance,3000,EC3304,14.80
+Economics and Finance,3000,EC3305,14.30
+Economics and Finance,3000,EC3306,15.00
+Economics and Finance,4000,EC4201,13.45
+Economics and Finance,4000,EC4202,13.13
+Economics and Finance,4000,EC4203,15.40
+Economics and Finance,4000,EC4204,14.93
+Economics and Finance,4000,EC4205,15.58
+Economics and Finance,4000,EC4300,16.10
+Economics and Finance,4000,EC4302,15.63
+Economics and Finance,4000,EC4401,14.50
+Economics and Finance,4000,EC4402,14.85
+Economics and Finance,4000,EC4403,14.20
+Economics and Finance,4000,EC4405,15.35
+Economics and Finance,4000,EC4406,14.70
+Economics and Finance,4000,EC4407,15.60
+Economics and Finance,4000,EC4408,16.00
+Economics and Finance,4000,EC4409,15.95
+Economics and Finance,4000,EC4410,15.30
+Economics and Finance,4000,EC4411,15.30
+Economics and Finance,4000,EC4414,14.60
+Economics and Finance,4000,EC4415,14.55
+Economics and Finance,4000,EC4417,14.75
+Economics and Finance,4000,EC4418,14.80
+Economics and Finance,4000,EC4419,14.00
+Economics and Finance,4000,EC4420,14.20
+Economics and Finance,4000,EC4421,14.20
+Economics and Finance,4000,EC4424,15.80
+Economics and Finance,4000,EC4430,14.70
+Economics and Finance,4000,EC4499,15.30
+Economics and Finance,4000,EC4501,13.77
+Economics and Finance,4000,EC4502,13.80
+Economics and Finance,4000,EC4503,14.10
+Economics and Finance,4000,EC4504,13.60
+Economics and Finance,4000,EC4505,13.80
+Economics and Finance,4000,EC4506,14.30
+Economics and Finance,4000,EC4507,14.60
+Economics and Finance,4000,EC4508,15.20
+Economics and Finance,4000,EC4509,14.15
+Economics and Finance,4000,EC4510,16.00
+Economics and Finance,4000,EC4511,15.70
+Economics and Finance,4000,EC4512,14.95
+Economics and Finance,4000,EC4513,14.90
+Economics and Finance,4000,EC4514,14.95
+Economics and Finance,4000,EC4515,14.60
+Economics and Finance,4000,EC4517,14.00
+Economics and Finance,4000,EC4519,15.40
+Economics and Finance,4000,EC4520,15.00
+Economics and Finance,4000,EC4602,13.90
+Economics and Finance,4000,EC4605,14.70
+Economics and Finance,4000,EC4606,13.90
+Economics and Finance,4000,EC4609,14.80
+Economics and Finance,4000,EC4615,16.40
+Economics and Finance,4000,EC4617,14.90
+Economics and Finance,5000,EC5201,13.69
+Economics and Finance,5000,EC5202,13.05
+Economics and Finance,5000,EC5203,12.81
+Economics and Finance,5000,EC5204,14.44
+Economics and Finance,5000,EC5220,12.20
+Economics and Finance,5000,EC5222,15.83
+Economics and Finance,5000,EC5225,15.03
+Economics and Finance,5000,EC5299,16.44
+Economics and Finance,5000,EC5501,15.58
+Economics and Finance,5000,EC5502,15.57
+Economics and Finance,5000,EC5503,17.34
+Economics and Finance,5000,EC5504,16.23
+Economics and Finance,5000,EC5505,15.30
+Economics and Finance,5000,EC5506,15.95
+Economics and Finance,5000,EC5507,16.32
+Economics and Finance,5000,EC5509,16.35
+Economics and Finance,5000,EC5518,16.74
+Economics and Finance,5000,EC5599,16.25
+Economics and Finance,5000,EC5601,15.07
+Economics and Finance,5000,EC5604,14.24
+Economics and Finance,5000,EC5605,15.05
+Economics and Finance,5000,EC5606,15.41
+Economics and Finance,5000,EC5608,14.42
+Economics and Finance,5000,EC5609,14.08
+Economics and Finance,5000,EC5610,15.63
+Economics and Finance,5000,EC5611,15.25
+Economics and Finance,5000,EC5699,15.66
+Economics and Finance,5000,EC5722,15.41
+Economics and Finance,5000,EC5801,14.61
+Economics and Finance,5000,EC5899,15.50
+Economics and Finance,5000,EC5901,14.43
+Geography and Sustainable Development,2000,SD2002,14.50
+Geography and Sustainable Development,3000,SD3100,16.20
+Geography and Sustainable Development,3000,SD3110,15.90
+Geography and Sustainable Development,3000,SD3111,14.56
+Geography and Sustainable Development,4000,SD4110,16.53
+Geography and Sustainable Development,4000,SD4111,14.80
+Geography and Sustainable Development,4000,SD4112,15.40
+Geography and Sustainable Development,4000,SD4113,15.61
+Geography and Sustainable Development,3000,GG3201,16.11
+Geography and Sustainable Development,3000,GG3227,15.36
+Geography and Sustainable Development,3000,GG3229,13.41
+Geography and Sustainable Development,3000,GG3238,15.60
+Geography and Sustainable Development,4000,GG4201,15.23
+Management,4000,MN4227,15.10
+Philosophy,3000,PY3100,15.30
+Philosophy,3000,PY3701,14.83
+Philosophy,3000,PY3702,14.70
+Philosophy,3000,PY3999,14.58
+Philosophy,4000,PY4601,14.85
+Philosophy,4000,PY4604,14.30
+Philosophy,4000,PY4606,14.75
+Philosophy,4000,PY4608,13.85
+Philosophy,4000,PY4609,14.60
+Philosophy,4000,PY4610,14.50
+Philosophy,4000,PY4611,15.35
+Philosophy,4000,PY4612,16.20
+Philosophy,4000,PY4614,14.80
+Philosophy,4000,PY4615,14.90
+Philosophy,4000,PY4617,15.75
+Philosophy,4000,PY4618,15.35
+Philosophy,4000,PY4619,14.45
+Philosophy,4000,PY4620,14.70
+Philosophy,4000,PY4622,14.50
+Philosophy,4000,PY4624,14.97
+Philosophy,4000,PY4625,15.15
+Philosophy,4000,PY4626,14.55
+Philosophy,4000,PY4632,16.20
+Philosophy,4000,PY4634,14.35
+Philosophy,4000,PY4635,14.40
+Philosophy,4000,PY4638,13.80
+Philosophy,4000,PY4639,14.90
+Philosophy,4000,PY4640,13.30
+Philosophy,4000,PY4642,14.10
+Philosophy,4000,PY4643,15.00
+Philosophy,4000,PY4644,13.80
+Philosophy,4000,PY4645,14.85
+Philosophy,4000,PY4646,15.50
+Philosophy,4000,PY4647,14.20
+Philosophy,4000,PY4648,16.00
+Philosophy,4000,PY4651,13.80
+Philosophy,4000,PY4652,15.30
+Philosophy,4000,PY4699,15.14
+Philosophy,4000,PY4701,11.70
+Psychology,1000,PS1001,13.27
+Psychology,1000,PS1002,13.60
+Psychology,2000,PS2001,13.33
+Psychology,2000,PS2002,14.07
+Psychology,3000,PS3021,14.70
+Psychology,3000,PS3022,15.87
+Psychology,3000,PS3031,14.97
+Psychology,3000,PS3032,15.20
+Psychology,3000,PS3033,15.43
+Psychology,3000,PS3034,14.37
+Psychology,3000,PS3035,15.00
+Psychology,3000,PS3036,14.77
+Psychology,3000,PS3037,14.37
+Psychology,3000,PS3038,14.67
+Psychology,4000,PS4040,14.90
+Psychology,4000,PS4050,15.63
+Psychology,4000,PS4060,14.90
+Psychology,4000,PS4064,15.30
+Psychology,4000,PS4065,14.15
+Psychology,4000,PS4066,14.90
+Psychology,4000,PS4069,14.70
+Psychology,4000,PS4071,15.13
+Psychology,4000,PS4074,15.30
+Psychology,4000,PS4079,15.65
+Psychology,4000,PS4083,15.87
+Psychology,4000,PS4084,15.13
+Psychology,4000,PS4085,15.73
+Psychology,4000,PS4086,15.15
+Psychology,4000,PS4088,15.60
+Psychology,4000,PS4089,15.27
+Psychology,4000,PS4090,15.40
+Psychology,4000,PS4091,15.43
+Psychology,4000,PS4092,13.70
+Psychology,4000,PS4093,15.87
+Psychology,4000,PS4094,15.80
+Psychology,4000,PS4095,15.70
+Psychology,4000,PS4096,15.30
+Psychology,4000,PS4097,15.00
+Psychology,4000,PS4100,15.45
+Psychology,4000,PS4101,16.20
+Psychology,4000,PS4299,16.05
+Psychology,5000,PS5002,15.75
+Psychology,5000,PS5003,15.87
+Psychology,5000,PS5005,15.53
+Psychology,5000,PS5010,16.33
+Psychology,5000,PS5011,16.00
+Psychology,5000,PS5012,16.73
+Psychology,5000,PS5013,16.95
+Psychology,5000,PS5021,14.97
+Psychology,5000,PS5031,16.50
+Psychology,5000,PS5101,15.60
+Psychology,5000,PS5102,15.80
+Psychology,5000,PS5103,16.80
+Psychology,5000,PS5104,18.20
+Psychology,5000,PS5105,14.60
+Psychology,5000,PS5106,12.00
+Psychology,5000,PS5231,15.87
+Psychology,5000,PS5232,15.20
+Psychology,5000,PS5233,16.47
+Psychology,5000,PS5234,15.13
+Psychology,5000,PS5235,16.33
+Psychology,5000,PS5236,15.90
+Psychology,5000,PS5237,16.70
+Psychology,5000,PS5238,16.03
+Psychology,5000,PS5240,16.07
+Psychology,5000,PS5401,15.20
+Psychology,5000,PS5402,15.90
+Psychology,5000,PS5403,15.10
+Psychology,5000,PS5404,17.10
+Psychology,5000,PS5405,15.30
+Psychology,5000,PS5406,14.35
+Psychology,5000,CE5001,10.57
+Psychology,5000,CE5002,12.65
+Psychology,5000,CE5003,10.70
+Psychology,5000,CE5004,11.90
+Psychology,5000,CE5005,9.80
+Psychology,5000,CE5006,13.65
+Classics,3000,AA3020,15.03
+Classics,4000,AA4001,14.56
+Classics,4000,AA4149,12.88
+Classics,1000,AN1001,12.03
+Classics,1000,AN1002,12.76
+Classics,2000,AN2002,13.51
+Classics,2000,AN2003,13.26
+Classics,3000,AN3020,15.33
+Classics,4000,AN4105,15.08
+Classics,4000,AN4108,15.64
+Classics,4000,AN4109,15.28
+Classics,4000,AN4110,14.76
+Classics,4000,AN4117,14.80
+Classics,4000,AN4121,15.03
+Classics,4000,AN4127,15.45
+Classics,4000,AN4130,14.45
+Classics,4000,AN4131,15.01
+Classics,4000,AN4136,13.80
+Classics,4000,AN4145,15.10
+Classics,4000,AN4146,14.06
+Classics,4000,AN4149,15.35
+Classics,4000,AN4152,15.59
+Classics,4000,AN4154,14.92
+Classics,4000,AN4424,15.16
+Classics,4000,AN4425,15.44
+Classics,5000,AN5001,16.04
+Classics,5000,AN5099,14.95
+Classics,5000,AN5114,14.77
+Classics,5000,AN5137,15.33
+Classics,1000,CL1004,13.84
+Classics,1000,CL1005,13.46
+Classics,2000,CL2003,13.68
+Classics,2000,CL2004,13.61
+Classics,4000,CL4406,14.68
+Classics,4000,CL4419,15.32
+Classics,4000,CL4420,15.20
+Classics,4000,CL4421,14.91
+Classics,4000,CL4433,14.69
+Classics,4000,CL4435,14.74
+Classics,4000,CL4437,15.63
+Classics,4000,CL4438,14.81
+Classics,4000,CL4442,14.12
+Classics,4000,CL4444,15.46
+Classics,4000,CL4449,14.19
+Classics,4000,CL4452,14.68
+Classics,4000,CL4455,15.23
+Classics,4000,CL4456,15.58
+Classics,4000,CL4457,15.44
+Classics,4000,CL4500,14.69
+Classics,4000,CL4458,15.20
+Classics,4000,CL4990,14.67
+Classics,4000,CL4999,15.69
+Classics,5000,CL5099,14.81
+Classics,5000,CL5201,15.84
+Classics,1000,GK1001,13.56
+Classics,1000,GK1002,12.72
+Classics,1000,GK1005,14.15
+Classics,1000,GK1006,14.02
+Classics,2000,GK2001,14.60
+Classics,2000,GK2002,14.58
+Classics,2000,GK2003,11.82
+Classics,2000,GK2004,13.93
+Classics,4000,GK4100,15.40
+Classics,4000,GK4102,14.90
+Classics,4000,GK4105,15.13
+Classics,4000,GK4109,14.01
+Classics,4000,GK4113,15.03
+Classics,4000,GK4116,14.89
+Classics,4000,GK4117,15.30
+Classics,4000,GK4118,14.30
+Classics,4000,GK4120,14.65
+Classics,4000,GK4121,15.13
+Classics,4000,GK4999,15.50
+Classics,5000,GK5102,15.19
+Classics,1000,LT1001,13.74
+Classics,1000,LT1002,13.88
+Classics,1000,LT1003,13.81
+Classics,1000,LT1004,12.86
+Classics,2000,LT2001,14.03
+Classics,2000,LT2002,14.15
+Classics,2000,LT2003,13.77
+Classics,2000,LT2004,13.85
+Classics,4000,LT4201,15.12
+Classics,4000,LT4203,15.50
+Classics,4000,LT4208,15.17
+Classics,4000,LT4209,15.51
+Classics,4000,LT4210,15.12
+Classics,4000,LT4211,13.13
+Classics,4000,LT4213,14.26
+Classics,4000,LT4214,14.41
+Classics,4000,LT4215,14.82
+Classics,4000,LT4216,14.86
+Classics,4000,LT4217,14.67
+Classics,4000,LT4218,15.40
+Classics,4000,LT4999,15.92
+Classics,5000,LT5001,14.83
+English,1000,EN1003,13.48
+English,1000,EN1004,13.16
+English,2000,EN2003,13.36
+English,2000,EN2004,14.05
+English,3000,EN3111,15.52
+English,3000,EN3112,15.00
+English,3000,EN3113,14.15
+English,3000,EN3141,14.58
+English,3000,EN3142,14.48
+English,3000,EN3161,14.60
+English,3000,EN3162,15.00
+English,3000,EN3163,14.35
+English,3000,EN3164,14.20
+English,3000,EN3165,14.70
+English,3000,EN3166,14.60
+English,3000,EN3201,14.20
+English,3000,EN3202,15.33
+English,3000,EN3206,14.60
+English,3000,EN3207,15.00
+English,3000,EN3208,14.80
+English,3000,EN3209,13.90
+English,3000,EN3210,14.27
+English,3000,EN3211,15.70
+English,3000,EN3212,14.97
+English,3000,EN3213,15.13
+English,3000,EN3214,14.50
+English,3000,EN3215,14.70
+English,3000,EN3216,14.80
+English,3000,EN3217,15.70
+English,3000,EN3904,13.10
+English,3000,EN3905,15.00
+English,4000,EN4311,15.60
+English,4000,EN4312,14.80
+English,4000,EN4314,15.30
+English,4000,EN4315,15.03
+English,4000,EN4316,15.27
+English,4000,EN4341,14.95
+English,4000,EN4342,14.58
+English,4000,EN4343,15.65
+English,4000,EN4344,14.73
+English,4000,EN4345,14.60
+English,4000,EN4346,15.40
+English,4000,EN4347,14.80
+English,4000,EN4348,15.50
+English,4000,EN4361,14.74
+English,4000,EN4362,14.30
+English,4000,EN4363,14.70
+English,4000,EN4364,14.50
+English,4000,EN4365,14.50
+English,4000,EN4366,14.77
+English,4000,EN4367,14.40
+English,4000,EN4398,15.50
+English,4000,EN4399,15.40
+English,4000,EN4402,14.10
+English,4000,EN4403,15.30
+English,4000,EN4404,14.75
+English,4000,EN4405,15.12
+English,4000,EN4406,14.85
+English,4000,EN4407,14.35
+English,4000,EN4408,13.50
+English,4000,EN4409,14.60
+English,4000,EN4413,14.60
+English,4000,EN4414,14.83
+English,4000,EN4415,14.85
+English,4000,EN4416,14.65
+English,4000,EN4417,15.28
+English,4000,EN4418,15.77
+English,4000,EN4419,15.13
+English,4000,EN4420,15.73
+English,4000,EN4421,14.80
+English,4000,EN4422,14.50
+English,4000,EN4423,15.88
+English,4000,EN4424,15.73
+English,4000,EN4425,15.03
+English,4000,EN4426,15.40
+English,4000,EN4427,16.60
+English,4000,EN4428,15.70
+English,4000,EN4430,16.60
+English,4000,EN4432,15.30
+English,4000,EN4500,15.65
+English,5000,EN5004,15.99
+English,5000,EN5005,17.09
+English,5000,EN5006,15.82
+English,5000,EN5007,16.50
+English,5000,EN5008,15.66
+English,5000,EN5009,16.23
+English,5000,EN5015,16.23
+English,5000,EN5017,15.95
+English,5000,EN5018,15.45
+English,5000,EN5099,16.39
+English,5000,EN5100,0.00
+English,5000,EN5101,8.29
+English,5000,EN5105,16.25
+English,5000,EN5112,16.21
+English,5000,EN5115,15.51
+English,5000,EN5116,15.34
+English,5000,EN5201,15.67
+English,5000,EN5301,16.17
+English,5000,EN5302,15.71
+English,5000,EN5303,15.67
+English,5000,EN5304,15.25
+English,5000,EN5402,16.03
+English,5000,EN5501,15.51
+English,5000,EN5502,15.87
+English,5000,EN5511,15.93
+Social Anthropology,1000,SA1001,13.97
+Social Anthropology,1000,SA1002,14.04
+Social Anthropology,2000,SA2001,13.82
+Social Anthropology,2000,SA2002,14.62
+Social Anthropology,3000,SA3021,15.84
+Social Anthropology,3000,SA3030,15.34
+Social Anthropology,3000,SA3031,15.97
+Social Anthropology,3000,SA3032,15.05
+Social Anthropology,3000,SA3049,15.00
+Social Anthropology,3000,SA3050,15.07
+Social Anthropology,3000,SA3055,15.81
+Social Anthropology,3000,SA3057,14.80
+Social Anthropology,3000,SA3059,15.09
+Social Anthropology,3000,SA3060,15.16
+Social Anthropology,3000,SA3062,15.42
+Social Anthropology,3000,SA3063,15.14
+Social Anthropology,3000,SA3064,15.21
+Social Anthropology,3000,SA3506,15.25
+Social Anthropology,4000,SA4005,15.36
+Social Anthropology,4000,SA4058,15.51
+Social Anthropology,4000,SA4059,14.98
+Social Anthropology,4000,SA4060,15.41
+Social Anthropology,4000,SA4098,14.56
+Social Anthropology,4000,SA4099,15.32
+Social Anthropology,4000,SA4850,15.71
+Social Anthropology,4000,SA4857,14.85
+Social Anthropology,4000,SA4860,16.72
+Social Anthropology,4000,SA4862,14.88
+Social Anthropology,4000,SA4863,14.97
+Social Anthropology,4000,SA4865,15.39
+Social Anthropology,4000,SA4866,15.11
+Social Anthropology,5000,SA5010,15.83
+Social Anthropology,5000,SA5011,15.82
+Social Anthropology,5000,SA5020,16.13
+Social Anthropology,5000,SA5021,15.90
+Social Anthropology,5000,SA5099,16.36
+Social Anthropology,5000,SA5202,16.60
+Social Anthropology,5000,SA5203,17.00
+Social Anthropology,5000,SA5521,16.58
