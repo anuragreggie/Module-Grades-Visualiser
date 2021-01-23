@@ -1,5 +1,5 @@
 ## St Andrews Module Grades Visualiser
-### View app at:  https://grades-visualiser.herokuapp.com
+> View app at:  https://grades-visualiser.herokuapp.com
 
 ### About
 
