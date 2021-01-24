@@ -56,6 +56,10 @@ if __name__ == '__main__':
     if page == 'Home':
 
         st.markdown(">  ⬅️ Click the sidebar to do a custom search and navigate")
+        
+        tip = st.beta_expander("Tip for mobile users")
+        with tip:
+            st.info("📱 On mobile it is recommended to use landscape mode to easily view graphs.")
 
         for i in range(2):
             st.write(" ")
