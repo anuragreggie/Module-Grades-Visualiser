@@ -26,7 +26,7 @@ if __name__ == '__main__':
     with col1:
         st.image('images/crest.png', width=60)
     with col2:
-        st.markdown("## St Andrews Module Grades Visualiser")
+        st.markdown("## St Andrews Module Grades Visualisation")
 
     # Creating pages.
     st.sidebar.title("Navigation")
